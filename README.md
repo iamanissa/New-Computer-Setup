@@ -1,2 +1,2 @@
 # New-Computer-Setup
-Setting up new computer with git, rails, rbenv, zsh, and postgres
+Check the Wiki for setting up a new computer with git, rails, rbenv, zsh, and postgres
